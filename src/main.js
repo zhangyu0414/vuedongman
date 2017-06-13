@@ -2,7 +2,6 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import App from './App.vue'
-<<<<<<< HEAD
 import Main from './components/index/index.vue'
 import Title from './components/Title.vue'
 import Hello from './components/tpl/Head.vue'
@@ -12,16 +11,6 @@ import Search from './components/search/index.vue'
 import Classify from './components/classify/index.vue'
 import detail from './components/classify/detail.vue'
 import movie from './components/movie/movie.vue'
-=======
-import Main from './components/index/Main.vue'
-import Title from './components/Title.vue'
-import Hello from './components/Head.vue'
-import User from './components/user/User.vue'
-import ShopCart from './components/shopcart/Shopcart.vue'
-import Search from './components/search/search.vue'
-import Classify from './components/classify/Classify.vue'
-import detail from './components/classify/detail.vue'
->>>>>>> e3687170a493d47ac81e8ef199432a72b2a7847d
 import VueRouter from 'vue-router'
 import iView from 'iview'
 import MuseUI from 'muse-ui'
@@ -58,26 +47,20 @@ const routes = [{
   path: '/User',
   component: User
 }, {
-<<<<<<< HEAD
   path: '/User/:id',
   component: User
 }, {
   path: '/User/:id/Uid/:name',
   component: User
 }, {
-=======
->>>>>>> e3687170a493d47ac81e8ef199432a72b2a7847d
   path: '/ShopCart',
   component: ShopCart
 }, {
   path: '/search',
   component: Search
-<<<<<<< HEAD
 }, {
   path: '/movie',
   component: movie
-=======
->>>>>>> e3687170a493d47ac81e8ef199432a72b2a7847d
 }]
 
 const router = new VueRouter({
