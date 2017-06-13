@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/App.vue" charset="UTF-8" />
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/src/components/Title.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/components/classify/index.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/components/index/index.vue" charset="UTF-8" />
@@ -11,6 +12,15 @@
     <file url="file://$PROJECT_DIR$/src/components/tpl/Foot.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/components/tpl/Head.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/components/user/index.vue" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/src/components/Foot.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/Head.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/Title.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/classify/Classify.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/index/Main.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/shopcart/Shopcart.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/user/User.vue" charset="UTF-8" />
+>>>>>>> e3687170a493d47ac81e8ef199432a72b2a7847d
     <file url="file://$PROJECT_DIR$/src/main.js" charset="UTF-8" />
   </component>
 </project>
